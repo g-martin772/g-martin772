@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a game engine.<br>👯 I’m looking to collaborate on big projects.<br>🌱 I’m currently learning Vulkan.<br>💬 Ask me about computer science.<br>⚡ Fun fact: I'm lazy but smart.
+🔭 I’m currently working on the third version of my game engine.<br>👯 I’m looking to collaborate on interesting projects.<br>🌱 I’m currently learning pbrt.<br>💬 Ask me about anything.<br>⚡ Fun fact: I'm lazy but smart.
 
 
 ## 🌐 Socials:
