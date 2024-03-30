@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate software developer/engineer interested in anything technical you can come up with</h3>
+<h3 align="center">A passionate software developer/engineer interested in anything technical you can think of</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-martin772&label=Profile%20views&color=0e75b6&style=flat" alt="g-martin772" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Fusion Engine](https://github.com/g-martin772/Fusion)
 
-- 🌱 I’m currently learning **Webdev and Raytracing**
+- 🌱 I’m currently learning **Vulkan and Raytracing**
 
-- 👯 I’m looking to collaborate on **something cool**
+- 👯 I’m looking to collaborate on **cool projects**
 
 - 🤝 I’m looking for help with **calculus 3**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **g.martin.officemail@gmail.com**
 
-- ⚡ Fun fact **complicated things are easy for me, its the simple things i struggle with the most**
+- ⚡ Fun fact **complicated things are easy for me, it's the simple things I struggle with the most**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
