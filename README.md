@@ -23,8 +23,14 @@
 
 - ⚡ Fun fact **complicated things are easy for me, it's the simple things I struggle with the most**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/gmartin772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gmartin772" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel martin" height="30" width="40" /></a>
 </p>
 
