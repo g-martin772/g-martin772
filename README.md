@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Journey in Coding: From nothing to Code](https://dev.to/gmartin772/my-journey-in-coding-from-nothing-to-code-1cib)
 <!-- BLOG-POST-LIST:END -->
 
 
