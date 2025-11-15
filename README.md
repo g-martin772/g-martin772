@@ -5,34 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-martin772" alt="g-martin772" /></a> </p>
 
-- 🔭 I’m currently working on [Fusion Engine](https://github.com/g-martin772/Fusion)
-
-- 🌱 I’m currently learning **Vulkan and Raytracing**
-
-- 👯 I’m looking to collaborate on **cool projects**
-
-- 🤝 I’m looking for help with **calculus 3**
-
-- 👨‍💻 All of my projects are available at [https://github.com/g-martin772?tab=repositories](https://github.com/g-martin772?tab=repositories)
-
-- 📝 I regularly write articles on [https://g-martin772.github.io/blog](https://g-martin772.github.io/blog)
-
-- 💬 Ask me about **System engineering**
-
-- 📫 How to reach me **g.martin.officemail@gmail.com**
-
-- ⚡ Fun fact **complicated things are easy for me, it's the simple things I struggle with the most**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [My Journey in Coding: From nothing to Code](https://dev.to/gmartin772/my-journey-in-coding-from-nothing-to-code-1cib)
-<!-- BLOG-POST-LIST:END -->
+- I’m currently working on [MoleHole](https://github.com/g-martin772/MoleHole), a Blackhole Simulation with custom rendering
+- I’m currently learning **Everything there is to learn**
+- I like contributing to **meaningful projects**
+- I’m looking for help with **math and physics**
+- Most of my projects are available at [https://github.com/g-martin772?tab=repositories](https://github.com/g-martin772?tab=repositories)
+- Ask me about **System engineering**
+- You can reach me at **g.martin.officemail@gmail.com**
+- Fun fact: **I like complicated things!**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/gmartin772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gmartin772" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel martin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-martin-430709298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel martin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
