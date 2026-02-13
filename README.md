@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-martin772&label=Profile%20views&color=0e75b6&style=flat" alt="g-martin772" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-martin772" alt="g-martin772" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=g-martin772" alt="g-martin772" /></a> </p>
 
 - I’m currently working on [MoleHole](https://github.com/g-martin772/MoleHole), a Blackhole Simulation with custom rendering
 - I’m currently learning **Everything there is to learn**
